@@ -4,7 +4,9 @@ enum MyEnum {
     //% block="two"
     Two
 }
-
+/**
+ * MakeCodePins
+ */
 //% color=#B22222 weight=30 icon="\uf140"
 //% advanced=true
 namespace custompins {
