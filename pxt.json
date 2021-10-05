@@ -11,6 +11,7 @@
         "main.ts",
         "README.md",
         "custom.ts",
+        "MakeCodePins.cpp",
         "MakeCodePins.cpp"
     ],
     "testFiles": [
