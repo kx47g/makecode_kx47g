@@ -12,7 +12,7 @@
         "README.md",
         "custom.ts",
         "MakeCodePins.cpp",
-        "MakeCodePins.cpp"
+        "MakeCodePins.ts"
     ],
     "testFiles": [
         "test.ts"
