@@ -1,5 +1,5 @@
 {
-    "name": "CustomBlocks",
+    "name": "MakeCodePins",
     "description": "",
     "dependencies": {
         "core": "*",
